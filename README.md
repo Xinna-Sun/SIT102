@@ -1,2 +1,2 @@
 # SIT102
-SplashKit programming as part of learning SIT102 at Deakin College
+C++ programming with SplashKit as part of learning SIT102 Introduction to Programming at Deakin College
